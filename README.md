@@ -4,4 +4,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Hi, I am @Loryyy3 and I am currently a high school student.
-I am currently learning C and python programming languages.
+I am now learning C and python programming languages.
