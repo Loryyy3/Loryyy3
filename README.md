@@ -1,7 +1,1 @@
-<!---
-Loryyy3/Loryyy3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-Hi, I am @Loryyy3 and I am currently a high school student.
-I am now learning C and python programming languages.
+Hi, I am @Loryyy3 and I am currently a math student.
